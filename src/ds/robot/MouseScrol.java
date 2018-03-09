@@ -1,4 +1,4 @@
-package com.cf.robot;
+package ds.robot;
 
 public enum MouseScrol {
 	UP, DOWN

@@ -1,9 +1,9 @@
-package com.cf.robot.devices.mouse;
+package ds.robot.devices.mouse;
 
 import java.awt.Point;
 
-import com.cf.robot.MouseButtons;
-import com.cf.robot.MouseScrol;
+import ds.robot.MouseButtons;
+import ds.robot.MouseScrol;
 
 public interface MouseIF {
 

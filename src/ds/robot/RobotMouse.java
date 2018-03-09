@@ -1,4 +1,4 @@
-package com.cf.robot;
+package ds.robot;
 
 import java.awt.AWTException;
 import java.awt.MouseInfo;
