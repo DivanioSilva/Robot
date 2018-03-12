@@ -1,5 +1,8 @@
 package ds.robot;
 
+import ds.robot.devices.mouse.MouseButtons;
+import ds.robot.devices.mouse.RobotMouse;
+
 public class RobotDemo {
 
 	public static void main(String[] args) {
