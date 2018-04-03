@@ -8,5 +8,5 @@ public interface MouseIF {
 	
 	public void click(MouseButtons mouseButtons);
 	
-	public void scrol(MouseScrol mouseScrol);
+	public void scrol(MouseScroll mouseScrol);
 }

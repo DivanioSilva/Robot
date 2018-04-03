@@ -1,5 +1,5 @@
 package ds.robot.devices.mouse;
 
-public enum MouseScrol {
+public enum MouseScroll {
 	UP, DOWN
 }
