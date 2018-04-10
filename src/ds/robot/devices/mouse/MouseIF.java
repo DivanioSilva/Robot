@@ -9,4 +9,6 @@ public interface MouseIF {
 	public void click(MouseButtons mouseButtons);
 	
 	public void scrol(MouseScroll mouseScrol);
+	
+	public void takeScreenShot();
 }

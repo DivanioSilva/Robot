@@ -9,15 +9,16 @@ public class RobotDemo {
 		RobotMouse r = new RobotMouse();
 
 		try {
-			r.goTo();
+//			r.goTo();
+//			
+//			Thread.sleep(800);
+//			
+//			r.mouseClick(MouseButtons.LEFT);
 			
-			Thread.sleep(800);
-			
-			r.mouseClick(MouseButtons.LEFT);
+			r.takeScreenShot();
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
-
-		
+	
 	}
 }
